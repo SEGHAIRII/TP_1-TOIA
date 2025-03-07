@@ -1,0 +1,3 @@
+/home/urie/bnb_2/build/CMakeFiles/FlowShopBnb.dir
+/home/urie/bnb_2/build/CMakeFiles/edit_cache.dir
+/home/urie/bnb_2/build/CMakeFiles/rebuild_cache.dir
